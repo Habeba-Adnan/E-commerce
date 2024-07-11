@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1701794076 source:c:\users\habeba\documents\iti-9 months\c\habeba_allah_adnanc_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
